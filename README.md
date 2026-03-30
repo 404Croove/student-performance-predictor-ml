@@ -165,6 +165,7 @@ This project may be simple, but it helped me understand the basics of machine le
 
 ---
 
-## Author
+## Credits
 
 Siddhartha Singh Sikarwar
+25BCE10784
